@@ -18,7 +18,7 @@ This project explores COVID-19 data using SQL and visualizes the findings in Tab
 
 ## Introduction
 
-This project analyzes COVID-19 trends and patterns using SQL for data exploration and Tableau for visualization. The aim is to provide insights into the pandemic's impact worldwide.
+This project analyzes COVID-19 trends and patterns using SQL for data exploration and Tableau for visualization. You can view the interactive dashboard here: [Tableau Public Dashboard](https://public.tableau.com/app/profile/prama.lim/viz/CovidDashboard_17339455160900/Dashboard1).
 
 ## Dataset Description
 
